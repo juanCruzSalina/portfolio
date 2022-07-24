@@ -32,6 +32,7 @@ interface FontSizes {
 };
 
 interface Radius {
+  smallRadius: string;
   rounded: string;
   squared: string;
 };

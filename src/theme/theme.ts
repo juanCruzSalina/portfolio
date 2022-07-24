@@ -44,7 +44,8 @@ const theme: DefaultTheme = {
     xxl: '3rem',
   },
   radius: {
-    rounded: '30px',
+    smallRadius: '10px',
+    rounded: '20px',
     squared: '0',
   },
   shadows: {
