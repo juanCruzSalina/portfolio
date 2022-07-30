@@ -12,5 +12,4 @@ const Template: ComponentStory<typeof Heading> = (args) => <Heading {...args}/>
 export const Default = Template.bind({})
 Default.args = {
   children: 'Example heading',
-  size: 'md',
 }

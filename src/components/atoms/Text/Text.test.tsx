@@ -6,7 +6,7 @@ import Text from './Text'
 describe('Text component tests', () => {
   test('should render properly', () => {
     render(
-      <Text size='md'>
+      <Text>
         Example text
       </Text>
     )

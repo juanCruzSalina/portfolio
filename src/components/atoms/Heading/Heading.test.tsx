@@ -6,7 +6,7 @@ import Heading from './Heading'
 describe('Heading component test', () => {
   test('should render properly', () => {
     render(
-      <Heading size='md'>
+      <Heading>
         testing heading
       </Heading>
     )

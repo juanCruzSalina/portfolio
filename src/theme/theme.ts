@@ -49,7 +49,7 @@ const theme: DefaultTheme = {
     squared: '0',
   },
   shadows: {
-    withShadow: '0.5rem 0.25rem 0.5rem #0002;',
+    withShadow: '0.5rem 0.25rem 0.5rem #A9A8A9;',
     withoutShadow: 'none',
   },
 };

@@ -22,5 +22,6 @@ export const Default = Template.bind({})
 Template.args = {
   placeholder: 'John doe',
   type: 'text',
-  name: 'name'
+  name: 'name',
+  textArea: false
 }
